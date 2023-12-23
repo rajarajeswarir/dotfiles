@@ -1,0 +1,1 @@
+/home/raji/code/rajarajeswarir/dotfiles/zshrc
